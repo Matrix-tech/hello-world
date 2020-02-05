@@ -1,2 +1,2 @@
 # hello-world
-nowe repozytorium
+kurs java script
